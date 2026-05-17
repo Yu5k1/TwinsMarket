@@ -1,8 +1,9 @@
 # TwinsMarket
 
-A simulated AEN/USDT perpetual futures exchange that runs entirely on your machine. The market is driven by a synthetic price oracle and several autonomous agents — no real money, no real data feeds.
+> A simulated AEN/USDT perpetual futures exchange — synthetic oracle, autonomous agents, full derivatives mechanics. Runs locally, no real money.
 
-<img width="1906" height="945" alt="screen" src="https://github.com/user-attachments/assets/83802f3f-2fdc-4582-8878-73a862fe1556" />
+<img width="100%" alt="TwinsMarket UI" src="https://github.com/user-attachments/assets/83802f3f-2fdc-4582-8878-73a862fe1556" />
+
 ---
 
 ## What it does
